@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-  <!-- Tech icons fila 1 -->
+  <!-- Tech icons row 1 -->
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
 </div>
@@ -16,7 +16,7 @@
 <br>
 
 <div align="center">
-  <!-- Tech icons fila 2 -->
+  <!-- Tech icons row 2 -->
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
@@ -26,22 +26,22 @@
 
 ---
 
-### 🧑‍💻 **Sobre mí**
+### 🧑‍💻 **About Me**
 
-Soy **Ingeniero de Sistemas de Información** con experiencia en:
+I am a **Information Systems Engineer** with experience in:
 
-- Desarrollo con **HTML, CSS, JavaScript, TypeScript, Vue.js, jQuery, PHP, Laravel**
-- Modelado con **UML**
-- Bases de datos: **SQL Server, Oracle, MySQL**
-- Reportes con **Report Builder**
-- **Levantamiento de requerimientos** y **mantenimiento de sistemas**
+- Development with **HTML, CSS, JavaScript, TypeScript, Vue.js, jQuery, PHP, Laravel**
+- Modeling with **UML**
+- Databases: **SQL Server, Oracle, MySQL**
+- Reporting with **Report Builder**
+- **Requirements gathering** and **system maintenance**
 
-🔹 Habilidades personales: trabajo en equipo, comunicación asertiva, empatía, proactividad y pasión por la tecnología.  
-🔹 Manejo avanzado de herramientas tecnológicas y programas de oficina.
+🔹 Personal skills: teamwork, assertive communication, empathy, proactivity, and passion for technology.  
+🔹 Advanced management of technological tools and office programs.
 
 ---
 
-### 🖥️ **Lenguajes y Tecnologías**
+### 🖥️ **Languages & Technologies**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -57,14 +57,14 @@ Soy **Ingeniero de Sistemas de Información** con experiencia en:
 
 ---
 
-### 🎓 **Certificados Platzi**
+### 🎓 **Certifications**
 
 - 🟢 **AWS Cloud Practitioner Certification** – *Sep 2025*  
 - 🟢 **Curso de Power BI** – *Sep 2025*  
 - 🟢 **Fundamentos de Symfony 6** – *Sep 2025*  
-- 🟢 **Automatizaciones con n8n** – *Ago 2025*  
-- 🟢 **Agentes AI** – *Ago 2025*  
-- 🟢 **OpenAI API** – *Ago 2025*  
+- 🟢 **Automatizaciones con n8n** – *Aug 2025*  
+- 🟢 **Agentes AI** – *Aug 2025*  
+- 🟢 **OpenAI API** – *Aug 2025*  
 - 🟢 **Herramientas de AI para Developers** – *Jul 2025*  
 - 🟢 **Inteligencia Artificial para Servicio al Cliente** – *Jul 2025*  
 - 🟢 **RPA e Hiperautomatización con AI** – *Jul 2025*  
@@ -78,14 +78,14 @@ Soy **Ingeniero de Sistemas de Información** con experiencia en:
 
 ---
 
-### 📇 **Conecta conmigo**
+### 📇 **Connect with Me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eddin%20Martínez%20Arias-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eddin-martinez-arias-a980b9211)
 
-📧 **Correo:** *(martinezariaseddin@gmail.com)*
+📧 **Email:** *(martinezariaseddin@gmail.com)*
 
 ---
 
-### 🚀 **Proyectos**
+### 🚀 **Projects**
 
-🔎 Explora mis repositorios públicos a continuación 👇
+🔎 Explore my public repositories below 👇
