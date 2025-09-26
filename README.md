@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-[![Capsule Render](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Web%20Developer%20|%20Full%20Stack%20Engineer&fontAlign=50&fontAlignY=40&desc=Eddin%20Martínez%20Arias&descAlign=50&descAlignY=60)](https://github.com/eddinmartinezarias)
+[![Capsule Render](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=%20Developer%20|%20Full%20Stack&fontAlign=50&fontAlignY=40&desc=Eddin%20Martínez%20Arias&descAlign=50&descAlignY=60)](https://github.com/eddinmartinezarias)
 
 ---
 
