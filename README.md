@@ -1,4 +1,28 @@
-# 👋 ¡Hola! Soy **Eddin Martínez Arias**
+<h1 align="center">
+  <b>Hi, I'm Eddin Martínez Arias</b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+
+[![Capsule Render](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Web%20Developer%20|%20Full%20Stack%20Engineer&fontAlign=50&fontAlignY=40&desc=Eddin%20Martínez%20Arias&descAlign=50&descAlignY=60)](https://github.com/eddinmartinezarias)
+
+---
+
+<div align="center">
+  <!-- Tech icons fila 1 -->
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Tech icons fila 2 -->
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="API" width="50" height="50" />
+</div>
 
 ---
 
@@ -58,7 +82,7 @@ Soy **Ingeniero de Sistemas de Información** con experiencia en:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eddin%20Martínez%20Arias-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eddin-martinez-arias-a980b9211)
 
-📧 **Correo:** *(puedes agregarlo aquí si deseas)*
+📧 **Correo:** *(martinezariaseddin@gmail.com)*
 
 ---
 
